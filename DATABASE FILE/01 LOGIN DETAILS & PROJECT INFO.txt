@@ -1,0 +1,8 @@
+
+**Database Name: gymnsb**
+
+**Admin Login Details**
+
+Username: admin
+Password: codeastro.com
+
